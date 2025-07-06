@@ -50,7 +50,7 @@ Employee (1) -------> (N) Employee (Manager-Subordinate)
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/harishuppu/employeeManagement.git
    cd employee-management-system
    ```
 
